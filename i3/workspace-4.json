@@ -1,0 +1,49 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "normal",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 726,
+       "width": 678,
+       "x": 0,
+       "y": 0
+    },
+    "marks": [],
+    "name": "yup",
+    "percent": 0.5,
+    "swallows": [
+       {
+        "class": "^Thunar$",
+        "instance": "^thunar$",
+        "title": "^yup$",
+        "window_role": "^Thunar\\-1627058848\\-215853099$"
+       }
+    ],
+    "type": "con"
+}
+
+{
+    "border": "normal",
+    "current_border_width": 2,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 600,
+       "width": 800,
+       "x": 0,
+       "y": 0
+    },
+    "marks": [],
+    "name": "Alacritty",
+    "percent": 0.5,
+    "swallows": [
+       {
+        "class": "^Alacritty$",
+        "instance": "^Alacritty$",
+        "title": "^Alacritty$"
+       }
+    ],
+    "type": "con"
+}
+
+
